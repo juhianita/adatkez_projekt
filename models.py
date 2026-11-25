@@ -1,4 +1,4 @@
-#pip install faker openpyxl oracledb
+#pip install faker openpyxl
 
 from dataclasses import dataclass, field
 
